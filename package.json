@@ -1,0 +1,32 @@
+{
+  "name": "cglab-webgl-2020",
+  "version": "1.0.0",
+  "description": "Esto es un proyecto para enseñar a usar WebGL 2.0.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macoam/cglab-webgl-2020.git"
+  },
+  "keywords": [
+    "webgl",
+    "games",
+    "cg",
+    "shader",
+    "glsl",
+    "2d",
+    "3d"
+  ],
+  "author": "Marianne Cordova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macoam/cglab-webgl-2020/issues"
+  },
+  "homepage": "https://github.com/macoam/cglab-webgl-2020#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
